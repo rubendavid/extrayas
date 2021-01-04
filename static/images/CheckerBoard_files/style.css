@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.title{
+	margin: auto;
+	text-align: center;
+}
+
+.board{
+	margin: auto;
+	text-align: center;
+    padding-top: 150px;
+}
+
+.rowoneone{
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+
+.rowonetwo{
+	background-color: grey;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+
+.rowtwotwo{
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+
+.rowtwoone{
+	background-color: grey;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
